@@ -1,0 +1,29 @@
+.container-div {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.content-div {
+  text-align: center;
+  border: 1px solid black;
+  padding: 20px;
+  border-radius: 5px;
+}
+.content-div-dark {
+  background-color: black;
+}
+.content-div-light {
+  background-color: white;
+}
+.dark-heading {
+  color: white;
+}
+.light-heading {
+  color: black;
+}
+.button {
+  border: 1px solid black;
+  border-radius: 5px;
+  height: 25px;
+}
